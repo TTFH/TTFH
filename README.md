@@ -1,6 +1,7 @@
 ### Hello there 👋 
 - ⚡ Fun fact: most fun facts aren't fun!
-- 🖕 Fuck you: Saber Interactive
+- 🥱 I should complete this or something.
+
 <!--
 **TTFH/TTFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
